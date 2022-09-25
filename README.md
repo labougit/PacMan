@@ -2,7 +2,7 @@
 ### structure et répartition des taches
 Le travail a été réalisé par le groupe 4 : 
 - Clémence CLAVEL
-- Clément BOURLET
+- Clément BOURLET 
 - Luke ABOUGIT
 - Hugo DA MAÏA
 
